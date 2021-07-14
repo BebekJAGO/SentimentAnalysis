@@ -1,4 +1,5 @@
 # SentimentAnalysis
-Data Mining w/ Naive Bayes
-Menggunakan dictionary Colloquial Indonesian Lexicon
+Data Mining w/ Multinomial Naive Bayes
+Sastrawi u/ list stopword & stemming
+Colloquial Indonesian Lexicon u/ normalisasi
 TF-IDF
